@@ -12,8 +12,8 @@ Welcome to the Fitness Chatbot repository! This project is a web application des
 ### Prerequisites
 
 Python 3.7+
-Streamlit
-Pandas
-Cohere
+,Streamlit
+,Pandas
+Cohere.
 
 # Enjoy your fitness journey with our Fitness Chatbot! 💪
