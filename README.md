@@ -16,4 +16,4 @@ Welcome to the Fitness Chatbot repository! This project is a web application des
 ##### Pandas
 ##### Cohere.
 
-![Sample Output](output.jpg)
+![Sample Output](Output.jpg)
