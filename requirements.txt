@@ -1,0 +1,4 @@
+cohere
+streamlit
+requests
+python-dotenv
